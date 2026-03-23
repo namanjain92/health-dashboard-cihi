@@ -1,0 +1,143 @@
+Province,Rank,Diagnosis,Number of Hospitalizations,Percentage,Avg Length of Stay (days)
+Canada,1.0,Giving birth,353903.0,11.41335406,2.122019655
+Canada,2.0,COPD and bronchitis,86816.0,2.79981166,7.015988021
+Canada,3.0,Pneumonia,86477.0,2.788878927,6.592400291
+Canada,4.0,Heart failure,72070.0,2.324253897,9.578645761
+Canada,5.0,Acute myocardial infarction,64067.0,2.066157547,5.060640589
+Canada,6.0,Osteoarthritis of the knee,62183.0,2.005398642,2.001399141
+Canada,7.0,"Other medical care (e.g., palliative care, chemotherapy)",54940.0,1.771812254,8.713087004
+Canada,8.0,Neurocognitive disorders,54092.0,1.744464296,16.92403542
+Canada,9.0,Fracture of femur,46988.0,1.515360651,10.8253171
+Canada,10.0,Substance use disorders,46277.0,1.492430937,5.370940208
+N.L.,1.0,Giving birth,3285.0,6.946206547,3.106544901
+N.L.,2.0,Acute myocardial infarction,1695.0,3.584115707,7.98820059
+N.L.,3.0,Pneumonia,1639.0,3.465702444,6.777303234
+N.L.,4.0,COPD and bronchitis,1549.0,3.275395416,7.243382828
+N.L.,5.0,Osteoarthritis of the knee,1466.0,3.099890045,2.066848568
+N.L.,6.0,"Other medical care (e.g., palliative care, chemotherapy)",1453.0,3.072401252,9.494838266
+N.L.,7.0,Heart failure,1165.0,2.46341876,9.71416309
+N.L.,8.0,Fracture of femur,903.0,1.909413854,10.66002215
+N.L.,9.0,Cerebral infarction,736.0,1.55628859,9.360054348
+N.L.,10.0,Coxarthrosis (arthrosis of hip),718.0,1.518227184,2.254874652
+P.E.I.,1.0,Giving birth,1300.0,9.814283557,2.315384615
+P.E.I.,2.0,COPD and bronchitis,452.0,3.412350898,7.670353982
+P.E.I.,3.0,Pneumonia,405.0,3.057526801,8.412345679
+P.E.I.,4.0,Acute myocardial infarction,385.0,2.906537823,6.618181818
+P.E.I.,5.0,Heart failure,330.0,2.491318134,10.64545455
+P.E.I.,6.0,"Other medical care (e.g., palliative care, chemotherapy)",316.0,2.385625849,15.19936709
+P.E.I.,7.0,Osteoarthritis of the knee,303.0,2.287483014,2.359735974
+P.E.I.,8.0,"Convalescence, typically following treatments/procedures",295.0,2.227087423,12.7220339
+P.E.I.,9.0,Fracture of femur,267.0,2.015702854,15.08988764
+P.E.I.,10.0,Cerebral infarction,240.0,1.811867734,16.65833333
+N.S.,1.0,Giving birth,7749.0,8.592242698,2.603174603
+N.S.,2.0,Acute myocardial infarction,3854.0,4.273390548,4.544110016
+N.S.,3.0,"Other medical care (e.g., palliative care, chemotherapy)",2996.0,3.322023374,11.92757009
+N.S.,4.0,COPD and bronchitis,2836.0,3.144612246,8.683004231
+N.S.,5.0,Pneumonia,2307.0,2.558046703,7.396185522
+N.S.,6.0,Heart failure,2002.0,2.219856741,12.31668332
+N.S.,7.0,Osteoarthritis of the knee,1711.0,1.897190251,1.617767387
+N.S.,8.0,Fracture of femur,1706.0,1.891646154,12.60961313
+N.S.,9.0,Neurocognitive disorders,1640.0,1.818464063,20.85792683
+N.S.,10.0,"Convalescence, typically following treatments/procedures",1561.0,1.730867319,7.945547726
+N.B.,1.0,Giving birth,6290.0,8.732472580869082,2.527186009538951
+N.B.,2.0,Acute myocardial infarction,2715.0,3.769262807163682,5.155432780847145
+N.B.,3.0,COPD and bronchitis,2273.0,3.155629598778287,7.730312362516498
+N.B.,4.0,"Other medical care (e.g., palliative care, chemotherapy)",2183.0,3.030681660419269,10.34677049931287
+N.B.,5.0,Pneumonia,2128.0,2.954324586977648,7.153665413533835
+N.B.,6.0,Osteoarthritis of the knee,1863.0,2.586422324031654,1.900697799248524
+N.B.,7.0,Heart failure,1645.0,2.28377065111759,10.21337386018237
+N.B.,8.0,Neurocognitive disorders,1230.0,1.7076218242399,13.54552845528455
+N.B.,9.0,Fracture of femur,1171.0,1.625711509093433,11.58240819812126
+N.B.,10.0,Coxarthrosis (arthrosis of hip),1120.0,1.554907677356657,2.26875
+Que.,1.0,Giving birth,72493.0,10.45518332,2.182817651
+Que.,2.0,COPD and bronchitis,25935.0,3.740432584,7.246693657
+Que.,3.0,Pneumonia,19276.0,2.780049296,6.374092135
+Que.,4.0,Heart failure,16504.0,2.380262169,9.186197286
+Que.,5.0,Neurocognitive disorders,14620.0,2.108545378,21.75478796
+Que.,6.0,Acute myocardial infarction,14349.0,2.06946085,5.069412503
+Que.,7.0,"Other medical care (e.g., palliative care, chemotherapy)",14213.0,2.049846474,6.918384577
+Que.,8.0,Osteoarthritis of the knee,10580.0,1.525883044,2.774669187
+Que.,9.0,Fracture of femur,9896.0,1.427234272,13.21998787
+Que.,10.0,Gallstones,9856.0,1.421465338,3.610491071
+Ont.,1.0,Giving birth,141556.0,12.21646784,1.949913461
+Ont.,2.0,Pneumonia,34356.0,2.96496771,6.235330073
+Ont.,3.0,Heart failure,30517.0,2.633656992,9.092473048
+Ont.,4.0,COPD and bronchitis,30003.0,2.58929812,6.383328334
+Ont.,5.0,Osteoarthritis of the knee,23624.0,2.038782081,1.663025993
+Ont.,6.0,Acute myocardial infarction,22664.0,1.955932827,4.691788378
+Ont.,7.0,Neurocognitive disorders,21038.0,1.815606901,12.86557658
+Ont.,8.0,Cerebral infarction,18522.0,1.598472812,8.588597344
+Ont.,9.0,"Other medical care (e.g., palliative care, chemotherapy)",18469.0,1.593898843,8.130434783
+Ont.,10.0,Fracture of femur,17407.0,1.502246855,9.021370713
+Man.,1.0,Giving birth,15405.0,14.38227633,2.2218111
+Man.,2.0,Pneumonia,3014.0,2.813903334,9.944591904
+Man.,3.0,"Other medical care (e.g., palliative care, chemotherapy)",2410.0,2.250002334,14.76846473
+Man.,4.0,Acute myocardial infarction,2235.0,2.086620422,5.262639821
+Man.,5.0,Heart failure,2183.0,2.038072654,13.92853871
+Man.,6.0,COPD and bronchitis,2156.0,2.012865159,9.654916512
+Man.,7.0,Care involving use of rehabilitation procedures,1972.0,1.841080748,26.80527383
+Man.,8.0,"Convalescence, typically following treatments/procedures",1959.0,1.828943806,8.844308321
+Man.,9.0,Fracture of femur,1933.0,1.804669922,14.12881531
+Man.,10.0,Substance use disorders,1767.0,1.649690508,7.391624222
+Sask.,1.0,Giving birth,12912.0,10.8107203,2.391960967
+Sask.,2.0,"Convalescence, typically following treatments/procedures",4330.0,3.625342231,11.28683603
+Sask.,3.0,Pneumonia,4224.0,3.536592513,6.530066288
+Sask.,4.0,Osteoarthritis of the knee,3614.0,3.025863007,2.233536248
+Sask.,5.0,COPD and bronchitis,3373.0,2.824082989,7.137266528
+Sask.,6.0,Substance use disorders,2256.0,1.88886191,6.51462766
+Sask.,7.0,Heart failure,2230.0,1.867093112,9.259192825
+Sask.,8.0,"Other medical care (e.g., palliative care, chemotherapy)",2206.0,1.846998836,8.572982774
+Sask.,9.0,Coxarthrosis (arthrosis of hip),2105.0,1.762435426,2.198574822
+Sask.,10.0,"Other diseases of the urinary system (e.g., UTI)",1834.0,1.535537564,7.564885496
+Alta.,1.0,Giving birth,49081.0,13.80152972,2.033210407
+Alta.,2.0,Pneumonia,8865.0,2.492829425,6.807896221
+Alta.,3.0,COPD and bronchitis,8565.0,2.408469715,7.370504437
+Alta.,4.0,Substance use disorders,7297.0,2.051909341,5.825681787
+Alta.,5.0,Heart failure,6892.0,1.938023733,10.89248404
+Alta.,6.0,Osteoarthritis of the knee,6065.0,1.705472133,1.858367683
+Alta.,7.0,Acute myocardial infarction,5810.0,1.63376638,5.657831325
+Alta.,8.0,Diseases of the appendix,5680.0,1.597210506,2.247887324
+Alta.,9.0,Neurocognitive disorders,5090.0,1.431303076,15.4609943
+Alta.,10.0,Other mental health disorders‡,5018.0,1.411056746,7.99920287
+B.C.,1.0,Giving birth,42545.0,9.806497712,2.340651075
+B.C.,2.0,Substance use disorders,12820.0,2.954972398,4.441887676
+B.C.,3.0,Osteoarthritis of the knee,11083.0,2.554598993,1.843273482
+B.C.,4.0,Pneumonia,9947.0,2.292754325,6.722529406
+B.C.,5.0,COPD and bronchitis,9347.0,2.154456085,6.730608751
+B.C.,6.0,"Schizophrenia, schizotypal and delusional disorders",8959.0,2.065023223,17.09744391
+B.C.,7.0,Acute myocardial infarction,8757.0,2.018462815,5.170606372
+B.C.,8.0,Heart failure,8441.0,1.945625742,9.156853453
+B.C.,9.0,Mood (affective) disorders,7600.0,1.751777709,14.31763158
+B.C.,10.0,Neurocognitive disorders,7293.0,1.681015109,18.67064308
+Y.T.,1.0,Giving birth,422.0,10.62437059,2.315165877
+Y.T.,2.0,Substance use disorders,166.0,4.179254783,3.63253012
+Y.T.,3.0,COPD and bronchitis,131.0,3.298086606,6.076335878
+Y.T.,4.0,Mood (affective) disorders,106.0,2.668680765,7.509433962
+Y.T.,5.0,Pneumonia,94.0,2.366565962,5.255319149
+Y.T.,6.0,Heart failure,77.0,1.93856999,10.80519481
+Y.T.,7.0,Osteoarthritis of the knee,74.0,1.863041289,2.108108108
+Y.T.,8.0,Acute myocardial infarction,65.0,1.636455186,2.584615385
+Y.T.,9.0,Diseases of the appendix,64.0,1.611278953,2.578125
+Y.T.,10.0,Neurocognitive disorders,59.0,1.485397784,14.22033898
+Y.T.,10.0,Coxarthrosis (arthrosis of hip),59.0,1.485397784,1.728813559
+N.W.T.,1.0,Giving birth,572.0,13.26530612,2.407342657
+N.W.T.,2.0,Substance use disorders,278.0,6.447124304,3.539568345
+N.W.T.,3.0,Pneumonia,165.0,3.826530612,4.727272727
+N.W.T.,4.0,Other mental health disorders‡,136.0,3.153988868,4.492647059
+N.W.T.,5.0,COPD and bronchitis,111.0,2.574211503,6.378378378
+N.W.T.,6.0,"Schizophrenia, schizotypal and delusional disorders",93.0,2.1567718,14.12903226
+N.W.T.,7.0,Mood (affective) disorders,91.0,2.11038961,8.164835165
+N.W.T.,8.0,"Convalescence, typically following treatments/procedures",80.0,1.85528757,12.375
+N.W.T.,9.0,Heart failure,62.0,1.437847866,9.596774194
+N.W.T.,9.0,Diseases of the appendix,62.0,1.437847866,2.564516129
+Nun.,1.0,Giving birth,293.0,17.98649478,2.061433447
+Nun.,2.0,"Schizophrenia, schizotypal and delusional disorders",95.0,5.831798649,7.305263158
+Nun.,3.0,Substance use disorders,91.0,5.586249233,3.406593407
+Nun.,4.0,COPD and bronchitis,85.0,5.217925107,3.788235294
+Nun.,5.0,Other mental health disorders‡,73.0,4.481276857,2.97260274
+Nun.,6.0,Mood (affective) disorders,70.0,4.297114794,4.985714286
+Nun.,7.0,Pneumonia,57.0,3.49907919,2.649122807
+Nun.,8.0,"Other acute lower respiratory infections (e.g., acute bronchiolitis)",35.0,2.148557397,2.285714286
+Nun.,9.0,Diseases of the appendix,33.0,2.025782689,2.454545455
+Nun.,10.0,"Poisoning by nonopioid analgesics, antipyretics and antirheumatics",27.0,1.657458564,2.37037037
+Nun.,10.0,Asthma,27.0,1.657458564,1.925925926
