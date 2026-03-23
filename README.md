@@ -8,7 +8,7 @@ raw Excel data using Python and building an interactive dashboard in Power BI.
 ## Tools Used
 - Python (pandas) - data cleaning and transformation
 - Power BI - dashboard and visualizations
-- Data source: CIHI Discharge Abstract Database (DAD), 2024-2025
+- Data source: CIHI Inpatient Hospitalization, Surgery and Newborn Statistics, 2024-2025
 
 ## What the Dashboard Shows
 - National hospitalization rates per 100,000 population from 2020 to 2025
