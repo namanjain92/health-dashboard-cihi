@@ -31,5 +31,5 @@ raw Excel data using Python and building an interactive dashboard in Power BI.
 - dashboard_screenshot.png - Power BI dashboard screenshot
 
 ## Data Source
-Canadian Institute for Health Information (CIHI) — Inpatient Hospitalization, Surgery and Newborn Statistics, 2024-2025
+Canadian Institute for Health Information (CIHI): Inpatient Hospitalization, Surgery and Newborn Statistics, 2024-2025
 https://www.cihi.ca/en/access-data-and-reports/data-tables
